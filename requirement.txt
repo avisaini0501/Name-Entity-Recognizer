@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+spacy
+presidio-analyzer
+presidio-anonymizer
+torch
+transformers
+fuzzywuzzy
+gliner @ git+https://github.com/urchade/gliner.git
