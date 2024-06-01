@@ -1,5 +1,3 @@
-Got it! Here's the updated README file with the correct project structure reflecting that the FastAPI code is in the `endpoint.py` file.
-
 ---
 
 # Named Entity Recognition for PII and PHI Data
@@ -18,8 +16,8 @@ This project provides a robust solution for Named Entity Recognition (NER) of Pe
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/pii-phi-ner-anonymization.git
-    cd pii-phi-ner-anonymization
+    git clone https://github.com/avisaini0501/Name-Entity-Recognizer.git
+    cd Name-Entity-Recognize
     ```
 
 2. **Create a Virtual Environment**
@@ -115,13 +113,10 @@ The `entities_with_threshold` function filters entities based on a confidence sc
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure that your code follows the existing style and conventions.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any questions or inquiries, please open an issue on GitHub or contact the project maintainer at [your.email@example.com](mailto:your.email@example.com).
+For any questions or inquiries, please open an issue on GitHub or contact the project maintainer at [avisaini0501@gmail.com].
 
 ---
 
